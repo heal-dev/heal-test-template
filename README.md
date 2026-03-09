@@ -4,10 +4,10 @@ AI-powered self-healing for Playwright tests. Heal automatically fixes broken se
 
 ## Installation
 
-```bash
-npm install @heal-dev/heal-cli
-npx playwright install
-```
+1. Clone this repo
+1. Download the heal CLI tarball from [here](https://drive.google.com/drive/u/0/folders/19a5n6SDKkbHVHiW_SAOqiPtnxFZ_fZAG)
+1. Move it to the root of the repo
+1. Run `npm i`
 
 **Peer dependencies:** `@playwright/test@1.58.1` and `playwright@1.58.1`.
 
