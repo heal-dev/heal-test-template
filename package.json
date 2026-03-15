@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@playwright/test": "1.58.1",
-    "@heal-dev/heal-cli": "latest"
+    "@heal-dev/heal-cli": "0.3.18"
   },
   "devDependencies": {
     "@faker-js/faker": "^10.1.0",
