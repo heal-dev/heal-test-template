@@ -1,15 +1,18 @@
 {
   "dependencies": {
     "@heal-dev/heal-cli": "*",
+    "@heal-dev/heal-playwright-tracer": "*",
     "@playwright/test": "1.58.1"
   },
   "devDependencies": {
     "@faker-js/faker": "^10.1.0",
     "@types/node": "^22.10.1",
+    "eslint": "^10.4.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
     "prettier": "^3.7.4",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.59.4"
   },
   "scripts": {
     "format": "prettier --write .",
