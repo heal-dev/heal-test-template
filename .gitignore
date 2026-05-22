@@ -20,6 +20,7 @@ Thumbs.db
 *.swo
 
 # Heal
+heal-report
 heal-traces
 .heal/history
 
